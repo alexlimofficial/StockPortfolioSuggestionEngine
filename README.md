@@ -10,7 +10,7 @@ A stock portfolio suggestion web application using Python's Flask web framework.
 
 ## Getting Started
 
-## Running the Application
+### Running the Application
 
 The Flask application is ran with a localhost server (IP address 127.0.0.1). Network servers usually listen for
 connections on a specific port number. Because this application is running in a developmental environment, Flask uses
